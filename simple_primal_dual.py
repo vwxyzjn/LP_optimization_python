@@ -7,13 +7,6 @@ Created on Sat Nov 18 13:02:31 2017
 Simple Primal Dual Example.
 """
 
-
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Nov 15 16:11:27 2017
-@author: shuang
-"""
-
 from gurobipy import *
 
 print("=====================================\n\n Primal: \n\n")
