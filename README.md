@@ -1,7 +1,7 @@
 # Linear Programming for Optimal Scheduling
 
-You may view the write up in PDF form [here](https://github.com/vwxyzjn/LP_optimization_python/raw/master/writeup_latex/Case%2B--%2BScheduling%2BStudent%2BVolunteers%2Bfor%2Bthe%2BINFORMS%2BAnnual%2BMeeting.pdf)
-or the jupyter notebook [here](https://github.com/vwxyzjn/LP_optimization_python/blob/master/Case%20--%20Scheduling%20Student%20Volunteers%20for%20the%20INFORMS%20Annual%20Meeting.ipynb)
+You may view the write up in PDF form **[here]**(https://github.com/vwxyzjn/LP_optimization_python/raw/master/writeup_latex/Case%2B--%2BScheduling%2BStudent%2BVolunteers%2Bfor%2Bthe%2BINFORMS%2BAnnual%2BMeeting.pdf)
+or the jupyter notebook **[here]**(https://github.com/vwxyzjn/LP_optimization_python/blob/master/Case%20--%20Scheduling%20Student%20Volunteers%20for%20the%20INFORMS%20Annual%20Meeting.ipynb)
 
 In the given case study for operations research, we needed to produce a schedule that meets the following constraints
 
